@@ -1,0 +1,32 @@
+TEXT 
+ctrl + arrows                    ---> jump
+shift + arrows                   ---> select 
+ctrl + backspace                 ---> delete a word
+
+CHROME
+alt + arrows                      ---> back n forth
+ctrl + t                          ---> new tab
+ctrl + shift + t                  ---> open deleted tabs
+ctrl + tab || ctrl + shift + tab  ---> jump tabs
+ctrl + r                          ---> refresh 
+
+WINDOWS
+alt + tab                         ---> jumps
+win + arrows                      ---> layout
+win + d                           ---> minimise and vice-versa
+alt + f4                          ---> delete 
+win + n                           ---> open taskbar app
+
+FILES
+f2                                ---> rename
+ctrl + shift + n                  ---> new folder
+
+OTHERS
+win + l                           ---> lock 
+win + i                           ---> settings
+win + a                           ---> action center
+
+VIRTUAL DESKTOP
+win + ctrl + d                    ---> create 
+win + ctrl + right/left arrows    ---> switch 
+win + ctrl + f4                   ---> delete 
