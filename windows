@@ -30,3 +30,24 @@ VIRTUAL DESKTOP
 win + ctrl + d                    ---> create 
 win + ctrl + right/left arrows    ---> switch 
 win + ctrl + f4                   ---> delete 
+
+
+*********************************************************************** VS CODE **************************************************************************
+
+ctrl + `              ---> terminal
+ctrl + \              ---> split 
+ctrl + shift + \      ---> jump matching bracket
+ctrl + /              ---> comment
+ctrl + click          ---> jump to function def
+alt + shift + f       ---> format  
+ctrl + o              ---> open location 
+alt + up/down         ---> move lines
+alt + shift + up/down ---> copy lines
+ctrl + shift + l      ---> multi cursor selection
+ctrl + d              ---> one by one cursor selection
+ctrl + shift + n      ---> window
+ctrl + shift + e      ---> sidebar focus
+ctrl + enter          ---> insert line
+ctrl + tab            ---> jump tabs
+ctrl + shift + [ || ] ---> fold code
+
